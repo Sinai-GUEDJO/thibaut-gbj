@@ -1,0 +1,41 @@
+.about {
+  background-color: #ffffff;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.about h2 {
+  font-size: 2em;
+  margin-bottom: 30px;
+  color: #0a3d62;
+}
+
+.about-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.about-img {
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.about-text {
+  max-width: 600px;
+  text-align: left;
+}
+
+.about-text p {
+  font-size: 1.1em;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+
